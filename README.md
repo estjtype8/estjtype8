@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @estjtype8 AKA gizem tekiner kuvandyk
-- 👀 I’m interested in devops,python and data engineering
-- 🌱 I’m currently learning python 
+- 👋 Hi, I’m @estjtype8 AKA gizem tekiner kuvandık
 - 📫 How to reach me gizemtekiner92@gmail.com
 
 <!---
